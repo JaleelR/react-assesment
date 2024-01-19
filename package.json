@@ -1,7 +1,7 @@
 {
   "name": "react-1",
   "version": "1.0.0",
-  "description": "",
+  "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
   "main": "addCommas.js",
   "scripts": {
     "test": "jest addCommas.test.js"
