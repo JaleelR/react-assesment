@@ -1,0 +1,12 @@
+.containter{
+    display: flex;
+    align-self: center;
+   justify-content: center; 
+}
+
+.form {
+    display: flex;
+    flex-direction: column;
+justify-content: center;
+   width: fit-content;
+}
